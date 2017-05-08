@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-03-03T21:03:12</property>
-    <property name="modified">2017-03-28T11:25:02</property>
+    <property name="modified">2017-05-08T16:32:01</property>
     <property name="originalScheme">Civic</property>
   </metaInfo>
   <font>
@@ -377,7 +377,7 @@
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
-        <option name="BACKGROUND" value="5e5339" />
+        <option name="BACKGROUND" value="69661d" />
       </value>
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
@@ -539,8 +539,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="52503a" />
-        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+        <option name="BACKGROUND" value="69661d" />
+        <option name="ERROR_STRIPE_COLOR" value="fef935" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
