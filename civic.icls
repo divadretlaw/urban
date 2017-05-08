@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-03-03T21:03:12</property>
-    <property name="modified">2017-05-08T16:32:01</property>
+    <property name="modified">2017-05-08T22:16:49</property>
     <property name="originalScheme">Civic</property>
   </metaInfo>
   <font>
@@ -481,9 +481,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1f2029" />
-        <option name="BACKGROUND" value="fef935" />
+        <option name="BACKGROUND" value="6543e9" />
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="fef935" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -506,6 +506,11 @@
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d18d61" />
+      </value>
+    </option>
+    <option name="TDIFF_FUZZY_MATCHED">
+      <value>
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="TEXT">
