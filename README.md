@@ -17,6 +17,12 @@ Theme for [JetBrains IDEs](http://jetbrains.com)
 * WebStorm
 * ...
 
+#### Installation
+
+Put `civic.icls` in `~/Library/Preferences/{IDE}{version}/colors/`
+
+e.g. `~/Library/Preferences/IntelliJIdea2017.1/colors/`
+
 Optional: Font - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) (Adobe Systems)
 
 ### civic.style
@@ -25,8 +31,16 @@ Theme for [MacDown](http://macdown.uranusjr.com)
 
 ![macdown](https://cloud.githubusercontent.com/assets/6899256/25715477/e7442e2c-30fb-11e7-85ee-a8bf6e8dc004.png)
 
+#### Installation
+
+Put `civic.style` in `~/Library/Application Support/MacDown/Themes/`
+
 ### civic.terminal
 
 Theme for Terminal (macOS)
 
 ![terminal](https://cloud.githubusercontent.com/assets/6899256/25715476/e73e3f44-30fb-11e7-9698-903f22f01f23.png)
+
+#### Installation
+
+Open `civic.terminal` with `/Applications/Utilities/Terminal.app`
