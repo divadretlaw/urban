@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-03-03T21:03:12</property>
-    <property name="modified">2017-05-08T22:16:49</property>
+    <property name="modified">2017-05-09T16:23:06</property>
     <property name="originalScheme">Civic</property>
   </metaInfo>
   <font>
@@ -22,7 +22,7 @@
     <option name="LINE_NUMBERS_COLOR" value="e7e8eb" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="40414b" />
-    <option name="SELECTION_FOREGROUND" value="ffffff" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="94959b" />
     <option name="TEARLINE_COLOR" value="929292" />
     <option name="WHITESPACES" value="94959b" />
@@ -185,6 +185,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="e1e2e7" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="51c34f" />
@@ -205,6 +210,11 @@
         <option name="FOREGROUND" value="2cb6b1" />
       </value>
     </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="e1e2e7" />
+      </value>
+    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="e7e8eb" />
@@ -217,7 +227,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="51c34f" />
+        <option name="FOREGROUND" value="2cad68" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -275,6 +285,7 @@
       <value>
         <option name="FOREGROUND" value="8783be" />
         <option name="EFFECT_COLOR" value="de3a3b" />
+        <option name="ERROR_STRIPE_COLOR" value="de3a3b" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -324,14 +335,23 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="e1e2e7" />
+      </value>
+    </option>
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="de3a3b" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
+      <value />
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="FOREGROUND" value="2cb6b1" />
+        <option name="FOREGROUND" value="e7e8eb" />
+        <option name="BACKGROUND" value="292b35" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -535,7 +555,10 @@
       </value>
     </option>
     <option name="TYPO">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="de3a3b" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
@@ -561,7 +584,8 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="de3a3b" />
+        <option name="EFFECT_COLOR" value="de3a3b" />
+        <option name="ERROR_STRIPE_COLOR" value="de3a3b" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
