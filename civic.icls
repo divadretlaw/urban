@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-03-03T21:03:12</property>
-    <property name="modified">2017-05-09T16:23:06</property>
+    <property name="modified">2017-05-09T16:36:21</property>
     <property name="originalScheme">Civic</property>
   </metaInfo>
   <font>
@@ -431,11 +431,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="2cb6b1" />
-      </value>
-    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5124e3" />
@@ -501,7 +496,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="6543e9" />
+        <option name="BACKGROUND" value="6843e9" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="fef935" />
       </value>
@@ -586,16 +581,6 @@
       <value>
         <option name="EFFECT_COLOR" value="de3a3b" />
         <option name="ERROR_STRIPE_COLOR" value="de3a3b" />
-      </value>
-    </option>
-    <option name="XML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="e7e8ec" />
-      </value>
-    </option>
-    <option name="XML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="e7e8ec" />
       </value>
     </option>
   </attributes>
