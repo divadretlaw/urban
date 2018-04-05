@@ -1,8 +1,10 @@
 <scheme name="Civic" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-03-03T21:03:12</property>
-    <property name="modified">2017-05-09T16:36:21</property>
+    <property name="created">2018-04-05T23:19:33</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.3.5.0.0</property>
+    <property name="modified">2018-04-05T23:19:39</property>
     <property name="originalScheme">Civic</property>
   </metaInfo>
   <font>
@@ -14,17 +16,28 @@
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <colors>
+    <option name="ADDED_LINES_COLOR" value="51c34f" />
+    <option name="ANNOTATIONS_COLOR" value="6843e9" />
+    <option name="ANNOTATIONS_MERGED_COLOR" value="6843e9" />
+    <option name="BORDER_LINES_COLOR" value="2cb6b1" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="363748" />
     <option name="CONSOLE_BACKGROUND_KEY" value="292b36" />
+    <option name="DELETED_LINES_COLOR" value="de3a3b" />
     <option name="GUTTER_BACKGROUND" value="292b35" />
     <option name="INDENT_GUIDE" value="94959b" />
     <option name="LINE_NUMBERS_COLOR" value="e7e8eb" />
+    <option name="MODIFIED_LINES_COLOR" value="6843e9" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="40414b" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="94959b" />
     <option name="TEARLINE_COLOR" value="929292" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="292b36" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="292b36" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="292b36" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="292b36" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="292b36" />
     <option name="WHITESPACES" value="94959b" />
   </colors>
   <attributes>
@@ -402,7 +415,7 @@
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="df349f" />
+        <option name="FOREGROUND" value="2cb6b1" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
@@ -498,7 +511,7 @@
       <value>
         <option name="BACKGROUND" value="6843e9" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="fef935" />
+        <option name="ERROR_STRIPE_COLOR" value="6843e9" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -558,6 +571,7 @@
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="de3a3b" />
+        <option name="ERROR_STRIPE_COLOR" value="de3a3b" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
