@@ -1,6 +1,6 @@
 # civic
 
-![colors](https://cloud.githubusercontent.com/assets/6899256/25845952/390877e2-34b0-11e7-97fe-88d5eb55feb0.png)
+![colors](https://github.com/divadretlaw/civic/raw/master/colors/colors.png)
 
 Dark themes inspired by Xcode's Civic theme
 
@@ -20,7 +20,7 @@ Theme for [JetBrains IDEs](http://jetbrains.com)
 
 Put `civic.icls` in `~/Library/Preferences/{IDE}{version}/colors/`
 
-e.g. `~/Library/Preferences/IntelliJIdea2017.1/colors/`
+e.g. `~/Library/Preferences/IntelliJIdea2017.3/colors/`
 
 Optional: Font - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) (Adobe Systems)
 
