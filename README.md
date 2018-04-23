@@ -6,7 +6,7 @@ Dark themes inspired by Xcode's Civic theme
 
 ## Themes
 
-### civic.icls
+### JetBrains IDE 
 
 Theme for [JetBrains IDEs](http://jetbrains.com)
 
@@ -20,25 +20,25 @@ Theme for [JetBrains IDEs](http://jetbrains.com)
 
 Put `civic.icls` in `~/Library/Preferences/{IDE}{version}/colors/`
 
-e.g. `~/Library/Preferences/IntelliJIdea2017.3/colors/`
+e.g. `~/Library/Preferences/IntelliJIdea2018.1/colors/`
 
 Optional: Font - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) (Adobe Systems)
 
-### civic.style
+### MacDown
 
 Theme for [MacDown](http://macdown.uranusjr.com)
 
-![macdown](https://cloud.githubusercontent.com/assets/6899256/25715477/e7442e2c-30fb-11e7-85ee-a8bf6e8dc004.png)
+![macdown](https://user-images.githubusercontent.com/6899256/39149495-83fd7a98-473f-11e8-9233-deeb627b91db.png)
 
 #### Installation
 
 Put `civic.style` in `~/Library/Application Support/MacDown/Themes/`
 
-### civic.terminal
+### Terminal.app
 
 Theme for Terminal (macOS)
 
-![terminal](https://cloud.githubusercontent.com/assets/6899256/25715476/e73e3f44-30fb-11e7-9698-903f22f01f23.png)
+![terminal](https://user-images.githubusercontent.com/6899256/39149709-528cdd36-4740-11e8-9632-e5c3e31eaae1.png)
 
 #### Installation
 
