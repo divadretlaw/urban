@@ -1,6 +1,6 @@
-# civic
+# urban
 
-![colors](https://github.com/divadretlaw/civic/raw/master/colors/colors.png)
+![colors](https://github.com/divadretlaw/urban/raw/master/colors/colors.png)
 
 Dark themes inspired by Xcode's Civic theme
 
@@ -18,7 +18,7 @@ Theme for [JetBrains IDEs](http://jetbrains.com)
 
 #### Installation
 
-Put `civic.icls` in `~/Library/Preferences/{IDE}{version}/colors/`
+Put `urban.icls` in `~/Library/Preferences/{IDE}{version}/colors/`
 
 e.g. `~/Library/Preferences/IntelliJIdea2018.1/colors/`
 
@@ -32,7 +32,7 @@ Theme for [MacDown](http://macdown.uranusjr.com)
 
 #### Installation
 
-Put `civic.style` in `~/Library/Application Support/MacDown/Themes/`
+Put `urban.style` in `~/Library/Application Support/MacDown/Themes/`
 
 ### Terminal.app
 
@@ -42,4 +42,4 @@ Theme for Terminal (macOS)
 
 #### Installation
 
-Open `civic.terminal` with `/Applications/Utilities/Terminal.app`
+Open `urban.terminal` with `/Applications/Utilities/Terminal.app`
