@@ -20,7 +20,7 @@ The code for this theme is in another repository: [urban-syntax](https://github.
 
 Search for `urban-syntax` in Settings > Install > Themes
 
-or from run the Terminal command
+or run the Terminal command
 
 `apm install urban-syntax`
 
