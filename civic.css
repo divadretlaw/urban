@@ -25,13 +25,17 @@
 .cyan {
 	color: #2CB6B1;
 }
-
-.pink {
-	color: #E12DA0;
+	
+.blue {
+	blue: #0A6FFF;
 }
 
 .lila {
 	color: #6543E9;
+}
+
+.pink {
+	color: #E12DA0;
 }
 
 .lavender {
