@@ -237,7 +237,7 @@
 	<key>UseBrightBold</key>
 	<true/>
 	<key>name</key>
-	<string>civic</string>
+	<string>urban</string>
 	<key>rowCount</key>
 	<integer>25</integer>
 	<key>shellExitAction</key>

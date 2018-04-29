@@ -1,11 +1,11 @@
-<scheme name="Civic" version="142">
+<scheme name="urban" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-04-05T23:19:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.5.0.0</property>
     <property name="modified">2018-04-05T23:19:39</property>
-    <property name="originalScheme">Civic</property>
+    <property name="originalScheme">urban</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
