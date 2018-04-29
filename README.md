@@ -56,7 +56,7 @@ Put `urban.style` in `~/Library/Application Support/MacDown/Themes/`
 
 Theme for Terminal (macOS)
 
-![terminal](https://user-images.githubusercontent.com/6899256/39404125-a23ab06a-4b8c-11e8-92e6-6599b2b79954.png)
+![terminal](https://user-images.githubusercontent.com/6899256/39409124-b3f5275e-4be1-11e8-8ffc-c9b8a2a14f45.png)
 
 #### Installation
 
