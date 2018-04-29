@@ -8,7 +8,7 @@ Dark themes inspired by Xcode's Civic theme
 
 ### Atom syntax
 
-Theme for [Atom](https://atom.io)
+Syntax theme for [Atom](https://atom.io)
 
 ![atom](https://user-images.githubusercontent.com/6899256/39404155-417bb7be-4b8d-11e8-9369-e191592b0f1a.png)
 
@@ -61,3 +61,9 @@ Theme for Terminal (macOS)
 #### Installation
 
 Open `urban.terminal` with `/Applications/Utilities/Terminal.app`
+
+## License
+
+See [LICENSE](LICENSE)
+
+Copyright © 2018 David Walter \(www.davidwalter.at)
