@@ -6,6 +6,24 @@ Dark themes inspired by Xcode's Civic theme
 
 ## Themes
 
+### Atom syntax
+
+Theme for [Atom](https://atom.io)
+
+![atom](https://user-images.githubusercontent.com/6899256/39404155-417bb7be-4b8d-11e8-9369-e191592b0f1a.png)
+
+UI theme is [native-ui](https://github.com/fv0/native-ui)
+
+The code for this theme is in another repository: [urban-syntax](https://github.com/divadretlaw/urban-syntax)
+
+#### Installation
+
+Search for `urban-syntax` in Settings > Install > Themes
+
+or from run the Terminal command
+
+`apm install urban-syntax`
+
 ### JetBrains IDE 
 
 Theme for [JetBrains IDEs](http://jetbrains.com)
@@ -28,7 +46,7 @@ Optional: Font - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro
 
 Theme for [MacDown](http://macdown.uranusjr.com)
 
-![macdown](https://user-images.githubusercontent.com/6899256/39149495-83fd7a98-473f-11e8-9233-deeb627b91db.png)
+![macdown](https://user-images.githubusercontent.com/6899256/39404166-7fca50ca-4b8d-11e8-820e-9d201e47f6ab.png)
 
 #### Installation
 
@@ -38,7 +56,7 @@ Put `urban.style` in `~/Library/Application Support/MacDown/Themes/`
 
 Theme for Terminal (macOS)
 
-![terminal](https://user-images.githubusercontent.com/6899256/39149709-528cdd36-4740-11e8-9632-e5c3e31eaae1.png)
+![terminal](https://user-images.githubusercontent.com/6899256/39404125-a23ab06a-4b8c-11e8-92e6-6599b2b79954.png)
 
 #### Installation
 
