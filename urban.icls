@@ -1,10 +1,10 @@
 <scheme name="urban" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-05T23:02:31</property>
+    <property name="created">2018-06-05T23:21:51</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-06-05T23:02:33</property>
+    <property name="modified">2018-06-05T23:21:53</property>
     <property name="originalScheme">urban</property>
   </metaInfo>
   <font>
@@ -227,7 +227,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="add681" />
+        <option name="FOREGROUND" value="99e8d5" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -289,12 +289,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="99e8d5" />
+        <option name="FOREGROUND" value="add681" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="add681" />
+        <option name="FOREGROUND" value="99e8d5" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -345,7 +345,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="99e8d5" />
+        <option name="FOREGROUND" value="add681" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -611,8 +611,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="23252b" />
-        <option name="BACKGROUND" value="fef935" />
+        <option name="EFFECT_COLOR" value="fef935" />
         <option name="ERROR_STRIPE_COLOR" value="fef935" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
