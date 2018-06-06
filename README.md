@@ -1,26 +1,16 @@
 # urban
 
-![colors](https://github.com/divadretlaw/urban/raw/master/assets/colors.png)
+![colors](https://github.com/divadretlaw/urban/raw/master/colors/colors.png)
 
-Dark themes inspired by various Xcode themes
+Dark themes inspired by Xcode's Civic theme
 
 ## Themes
-
-### Xcode
-
-Syntax Theme for [Xcode](https://developer.apple.com/xcode/)
-
-![atom](https://github.com/divadretlaw/urban/raw/master/assets/xcode.png)
-
-#### Installation
-
-Put `urban.xccolortheme` in `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
 
 ### Atom syntax
 
 Syntax theme for [Atom](https://atom.io)
 
-![atom](https://github.com/divadretlaw/urban/raw/master/assets/atom.png)
+![atom](https://user-images.githubusercontent.com/6899256/39404155-417bb7be-4b8d-11e8-9369-e191592b0f1a.png)
 
 UI theme is [native-ui](https://github.com/fv0/native-ui)
 
@@ -38,7 +28,7 @@ or run the Terminal command
 
 Theme for [JetBrains IDEs](http://jetbrains.com)
 
-![intellij](https://github.com/divadretlaw/urban/raw/master/assets/jetbrains.png)
+![intellij](https://cloud.githubusercontent.com/assets/6899256/25715475/e73d5f98-30fb-11e7-859f-d5135519c90f.png)
 
 * IntelliJ IDEA
 * WebStorm
@@ -56,7 +46,7 @@ Optional: Font - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro
 
 Theme for [MacDown](http://macdown.uranusjr.com)
 
-![macdown](https://github.com/divadretlaw/urban/raw/master/assets/macdown.png)
+![macdown](https://user-images.githubusercontent.com/6899256/39404166-7fca50ca-4b8d-11e8-820e-9d201e47f6ab.png)
 
 #### Installation
 
@@ -66,7 +56,7 @@ Put `urban.style` in `~/Library/Application Support/MacDown/Themes/`
 
 Theme for Terminal (macOS)
 
-![terminal](https://github.com/divadretlaw/urban/raw/master/assets/terminal.png)
+![terminal](https://user-images.githubusercontent.com/6899256/39409124-b3f5275e-4be1-11e8-8ffc-c9b8a2a14f45.png)
 
 #### Installation
 

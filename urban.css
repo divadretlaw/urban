@@ -1,9 +1,3 @@
-/* Foreground */
-
-.full-white {
-	color: #FFFFFF;
-}
-
 .white {
 	color: #E7E8EB;
 }
@@ -12,32 +6,16 @@
 	color: #DE3A3B;
 }
 
-.light-red {
-	color: #FC6A5D;
-}
-
-.brown {
-	color: #D38D5E;
-}
-
 .orange {
-	color: #FD8F3F;
+	color: #D38D5E;
 }
 
 .yellow {
 	color: #FEF935;
 }
 
-.light-yellow {
-	color: #FEFB85:
-}
-
 .green {
 	color: #51C34F;
-}
-
-.light-green {
-	color: #ADD681;
 }
 
 .dark-green {
@@ -47,33 +25,17 @@
 .cyan {
 	color: #2CB6B1;
 }
-
-.light-cyan {
-	color: #99E8D5;
-}
 	
 .blue {
 	blue: #0A6FFF;
 }
 
-.light-blue {
-	blue: #74B6F6;
-}
-
-.purple {
+.lila {
 	color: #6543E9;
-}
-
-.light-purple {
-	color: #A4A0F1;
 }
 
 .pink {
 	color: #E12DA0;
-}
-
-.light-pink {
-	color: #EF82B1;
 }
 
 .lavender {
@@ -84,137 +46,14 @@
 	color: #68878F;
 }
 
+.dark-gray {
+	color: #363748;
+}
+
 .gray {
 	color: #47515F;
 }
 
-.light-gray {
-	color: #6C7986;
-}
-
-.dark-gray {
-	color: #23252B;
-}
-
 .black {
-	color: #1F1F24;
-}
-
-.bright-black {
 	color: #292B35;
 }
-
-.full-black {
-	color: #000000;
-}
-
-/* Background */
-
-.full-white-bg {
-	background-color: #FFFFFF;
-}
-
-.white-bg {
-	background-color: #E7E8EB;
-}
-
-.red-bg {
-	background-color: #DE3A3B;
-}
-
-.light-red-bg {
-	background-color: #FC6A5D;
-}
-
-.brown-bg {
-	background-color: #D38D5E;
-}
-
-.orange-bg {
-	background-color: #FD8F3F;
-}
-
-.yellow-bg {
-	background-color: #FEF935;
-}
-
-.light-yellow-bg {
-	background-color: #FEFB85:
-}
-
-.green-bg {
-	background-color: #51C34F;
-}
-
-.light-green-bg {
-	background-color: #ADD681;
-}
-
-.dark-green-bg {
-	background-color: #2CAD68;
-}
-
-.cyan-bg {
-	background-color: #2CB6B1;
-}
-
-.light-cyan-bg {
-	background-color: #99E8D5;
-}
-	
-.blue-bg {
-	blue: #0A6FFF;
-}
-
-.light-blue-bg {
-	blue: #74B6F6;
-}
-
-.purple-bg {
-	background-color: #6543E9;
-}
-
-.light-purple-bg {
-	background-color: #A4A0F1;
-}
-
-.pink-bg {
-	background-color: #E12DA0;
-}
-
-.light-pink-bg {
-	background-color: #EF82B1;
-}
-
-.lavender-bg {
-	background-color: #8783BE;
-}
-
-.lavender-gray-bg {
-	background-color: #68878F;
-}
-
-.gray-bg {
-	background-color: #47515F;
-}
-
-.light-gray-bg {
-	background-color: #6C7986;
-}
-
-.dark-gray-bg {
-	background-color: #23252B;
-}
-
-.black-bg {
-	background-color: #1F1F24;
-}
-
-.bright-black-bg {
-	background-color: #292B35;
-}
-
-.full-black-bg {
-	background-color: #000000;
-}
-
