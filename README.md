@@ -1,6 +1,6 @@
 # urban
 
-![colors](https://github.com/divadretlaw/urban/raw/master/colors/colors.png)
+![colors](https://github.com/divadretlaw/urban/raw/master/assets/colors.png)
 
 Dark themes inspired by Xcode's Civic theme
 
@@ -18,11 +18,9 @@ The code for this theme is in another repository: [urban-syntax](https://github.
 
 #### Installation
 
-Search for `urban-syntax` in Settings > Install > Themes
+Run the Terminal command
 
-or run the Terminal command
-
-`apm install urban-syntax`
+`apm install urban-syntax@1.0.6`
 
 ### JetBrains IDE 
 
