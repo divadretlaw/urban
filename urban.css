@@ -29,7 +29,7 @@
 }
 
 .light-yellow {
-	color: #FEFB85:
+	color: #FEFB85;
 }
 
 .green {
@@ -53,11 +53,11 @@
 }
 	
 .blue {
-	blue: #0A6FFF;
+	color: #0A6FFF;
 }
 
 .light-blue {
-	blue: #74B6F6;
+	color: #74B6F6;
 }
 
 .purple {
@@ -139,7 +139,7 @@
 }
 
 .light-yellow-bg {
-	background-color: #FEFB85:
+	background-color: #FEFB85;
 }
 
 .green-bg {
@@ -163,11 +163,11 @@
 }
 	
 .blue-bg {
-	blue: #0A6FFF;
+	background-color: #0A6FFF;
 }
 
 .light-blue-bg {
-	blue: #74B6F6;
+	background-color: #74B6F6;
 }
 
 .purple-bg {
