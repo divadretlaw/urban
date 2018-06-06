@@ -21,12 +21,12 @@
     <option name="ANNOTATIONS_MERGED_COLOR" value="6843e9" />
     <option name="BORDER_LINES_COLOR" value="2cb6b1" />
     <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="292b35" />
+    <option name="CARET_ROW_COLOR" value="363945" />
     <option name="CONSOLE_BACKGROUND_KEY" value="292b36" />
     <option name="DELETED_LINES_COLOR" value="de3a3b" />
     <option name="DOCUMENTATION_COLOR" value="" />
     <option name="ERROR_HINT" value="" />
-    <option name="GUTTER_BACKGROUND" value="1f1f24" />
+    <option name="GUTTER_BACKGROUND" value="292A2F" />
     <option name="INDENT_GUIDE" value="94959b" />
     <option name="INFORMATION_HINT" value="" />
     <option name="LINE_NUMBERS_COLOR" value="e7e8eb" />
@@ -616,7 +616,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e7e8eb" />
-        <option name="BACKGROUND" value="1f1f24" />
+        <option name="BACKGROUND" value="292A2F" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
