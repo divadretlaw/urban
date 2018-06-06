@@ -10,7 +10,7 @@ Dark themes inspired by various Xcode themes
 
 Syntax Theme for [Xcode](https://developer.apple.com/xcode/)
 
-![atom](https://github.com/divadretlaw/urban/raw/master/assets/xcode.png)
+![xcode](https://github.com/divadretlaw/urban/raw/master/assets/xcode.png)
 
 #### Installation
 
@@ -38,7 +38,7 @@ or run the Terminal command
 
 Theme for [JetBrains IDEs](http://jetbrains.com)
 
-![intellij](https://github.com/divadretlaw/urban/raw/master/assets/jetbrains.png)
+![jetbrains](https://github.com/divadretlaw/urban/raw/master/assets/jetbrains.png)
 
 * IntelliJ IDEA
 * WebStorm
@@ -71,6 +71,18 @@ Theme for Terminal (macOS)
 #### Installation
 
 Open `urban.terminal` with `/Applications/Utilities/Terminal.app`
+
+### WIP: Visual Studio Code
+
+> This is a Work in Progress so expect missing or wrong colors in certain areas of Visual Studio Code
+
+Theme for [Visual Studio Code](https://code.visualstudio.com)
+
+![vscode](https://github.com/divadretlaw/urban/raw/master/assets/vscode.png)
+
+#### Installation
+
+Put the folder `urban-vscode` into `~/.vscode/extensions` and select the theme via settings `"workbench.colorTheme": "urban"`
 
 ## License
 

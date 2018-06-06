@@ -1,0 +1,22 @@
+{
+    "name": "urban",
+    "displayName": "urban",
+    "description": "Dark theme based on various Xcode themes",
+    "version": "1.0.0",
+    "publisher": "divadretlaw",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "urban",
+                "uiTheme": "vs",
+                "path": "./themes/urban.json"
+            }
+        ]
+    }
+}
