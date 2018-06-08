@@ -8,37 +8,37 @@ foreground: ffffff
 background: 6C7986
 
 H1
-foreground: ADD681
+foreground: 99E8D5
 font-style: bold
 font-size: 24px
 
 H2
-foreground: ADD681
+foreground: 99E8D5
 font-style: bold
 font-size: 20px
-
+  
 H3
-foreground: ADD681
+foreground: 99E8D5
 font-size: 17px
 
 H4
-foreground: ADD681
+foreground: 99E8D5
 font-size: 15px
 
 H5
-foreground: ADD681
+foreground: 99E8D5
 font-size: 13px
 
 H6
-foreground: ADD681
+foreground: 99E8D5
 font-size: 1px
 
 EMPH
-foreground: FD8F3F
+foreground: 2CAD68
 font-style: italic
 
 STRONG
-foreground: 99E8D5
+foreground: ADD681
 font-style: bold
 
 HRULE
@@ -60,10 +60,10 @@ AUTO_LINK_EMAIL
 foreground: 74B6F6
 
 REFERENCE
-foreground: 68878F
+foreground: FD8F3F
 
 IMAGE
-foreground: FD8F3F
+foreground: FC6A5D
 
 CODE
 foreground: EF82B1
@@ -75,8 +75,9 @@ HTML_ENTITY
 foreground: A4A0F1
 
 COMMENT
-foreground: 47515F
+foreground: 6C7986
 font-style: italic
 
 BLOCKQUOTE
-foreground: FC6A5D
+foreground: FD8F3F
+font-style: bold

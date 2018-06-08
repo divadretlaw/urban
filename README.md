@@ -60,7 +60,7 @@ Theme for [MacDown](http://macdown.uranusjr.com)
 
 #### Installation
 
-Put `urban.style` in `~/Library/Application Support/MacDown/Themes/`
+Put `urban+.style` and or `urban.style` in `~/Library/Application Support/MacDown/Themes/`
 
 ### Terminal.app
 
