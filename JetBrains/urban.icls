@@ -1,10 +1,10 @@
 <scheme name="urban" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-06-08T11:17:59</property>
+    <property name="created">2018-06-15T19:00:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-06-08T11:18:03</property>
+    <property name="modified">2018-06-15T19:00:13</property>
     <property name="originalScheme">urban</property>
   </metaInfo>
   <font>
@@ -15,6 +15,14 @@
     <option name="EDITOR_FONT_NAME" value="Monaco" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="51c34f" />
     <option name="ANNOTATIONS_COLOR" value="6843e9" />
@@ -34,8 +42,8 @@
     <option name="QUESTION_HINT" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="6c7986" />
-    <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="SELECTION_BACKGROUND" value="596472" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="94959b" />
     <option name="TEARLINE_COLOR" value="929292" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="292b36" />

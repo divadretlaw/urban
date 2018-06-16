@@ -22,7 +22,7 @@
 		"editorHoverWidget.background": "#596472",
 		"editorSuggestWidget.background": "#E7E8EB",
 		"editorSuggestWidget.foreground": "#596472",
-		"editor.selectionBackground": "#47515F",
+		"editor.selectionBackground": "#596472",
 		"editor.lineHighlightBackground": "#363945",
 		"editorLineNumber.foreground": "#6C7986",
 		"editorLineNumber.activeForeground": "#E7E8EB",
@@ -191,7 +191,7 @@
 				"punctuation.terminator"
 			],
 			"settings": {
-				"foreground": "#47515F",
+				"foreground": "#6C7986",
 				"fontStyle": "normal"
 			}
 		}
