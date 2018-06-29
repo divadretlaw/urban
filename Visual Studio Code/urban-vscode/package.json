@@ -14,7 +14,7 @@
         "themes": [
             {
                 "label": "urban",
-                "uiTheme": "vs",
+                "uiTheme": "hc-dark",
                 "path": "./themes/urban.json"
             }
         ]
