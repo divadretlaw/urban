@@ -44,7 +44,7 @@
 		"dropdown.border": "#23252B",
 
 		"activityBar.foreground": "#23252B",
-		"activityBar.background": "#E7E8EB",
+		"activityBar.background": "#D3D4D6",
 		"activityBarBadge.foreground": "#E7E8EB",
 		"activityBarBadge.background": "#DE3A3B",
 
@@ -61,10 +61,11 @@
 		"list.hoverBackground": "#74B6F6",
 		"list.invalidItemForeground": "#DE3A3B",
 
-		"statusBar.background": "#292A2F",
-		"statusBar.noFolderBackground": "#292A2F",
+		"statusBar.foreground": "#292A2F",
+		"statusBar.background": "#74B6F6",
+		"statusBar.noFolderForeground": "#E7E8EB",
+		"statusBar.noFolderBackground": "#8783BE",
 		"statusBar.debuggingBackground": "#6543E9",
-		"statusBar.foreground": "#E7E8EB",
 
 		"gitDecoration.modifiedResourceForeground": "#2CAD68",
 		"gitDecoration.deletedResourceForeground": "#FC6A5D",
@@ -115,7 +116,6 @@
 				"meta.var",
 				"storage.modifier",
 				"storage.class",
-				"storage.type.function",
 				"storage.type",
 				"variable.language.this",
 				"variable.language.self",
@@ -144,6 +144,8 @@
 				"storage.modifier.package",
 				"storage.type.java",
 				"storage.type.generic",
+				"storage.type.object",
+				"meta.method.identifier",				
 				"meta.class",
 				"support.class",
 				"support.function",
@@ -190,7 +192,8 @@
 		{
 			"name": "Orange",
 			"scope": [
-				"storage.type.annotation"
+				"storage.type.annotation",
+				"keyword.control.directive.include"
 			],
 			"settings": {
 				"foreground": "#FD8F3F",
