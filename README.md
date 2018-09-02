@@ -28,7 +28,7 @@ The code for this theme is in another repository: [urban-syntax](https://github.
 
 #### Installation
 
-Search for `urban-syntax` in Settings > Install > Themes
+Search for `urban-syntax` in "Settings > Install > Themes"
 
 or run the Terminal command
 
@@ -71,6 +71,16 @@ Theme for Terminal (macOS)
 #### Installation
 
 Open `urban.terminal` with `/Applications/Utilities/Terminal.app`
+
+### iTerm 2
+
+Color scheme for [iTerm 2](https://iterm2.com)
+
+![terminal](https://github.com/divadretlaw/urban/raw/master/assets/iterm2.png)
+
+#### Installation
+
+Open `urban.itermcolors` with `iTerm` and then you can find it under "Preferences > Profiles > Colors > Load Presets…".
 
 ### WIP: Visual Studio Code
 
