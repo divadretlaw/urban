@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "publisher": "divadretlaw",
     "engines": {
-        "vscode": "^1.23.0"
+        "vscode": "^1.25.0"
     },
     "categories": [
         "Themes"
@@ -14,7 +14,7 @@
         "themes": [
             {
                 "label": "urban",
-                "uiTheme": "hc-dark",
+                "uiTheme": "vs-dark",
                 "path": "./themes/urban.json"
             }
         ]

@@ -9,8 +9,8 @@
 		"scrollbar.shadow": "#FFFFFF00",
 		"widget.shadow": "#FFFFFF00",
 
-		"editorCursor.background": "#FFFFFF",
 		"editorCursor.foreground": "#FFFFFF",
+		"editorCursor.background": "#FFFFFF",
 
 		"tab.activeForeground": "#E7E8EB",
 		"tab.inactiveForeground": "#596472",
@@ -32,9 +32,13 @@
 		"editorLink.foreground": "#74B6F6",
 				
 		"input.foreground": "#23252B",
-		"input.background" : "#E7E8EB",
+		"input.background" : "#FFFFFF",
+		"input.placeholderForeground": "#6C7986",
+		"input.border": "#6C7986",
+		
 		"sideBar.foreground": "#23252B",
 		"sideBar.background": "#E7E8EB",
+
 		"button.foreground": "#E7E8EB",
 		"button.background": "#0A6FFF",
 		"button.hoverBackground": "#2489FF",
