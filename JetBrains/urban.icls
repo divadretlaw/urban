@@ -4,9 +4,10 @@
     <property name="created">2018-06-15T19:00:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-06-15T19:00:13</property>
+    <property name="modified">2018-10-24T23:24:19</property>
     <property name="originalScheme">urban</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="13" />
@@ -386,6 +387,7 @@
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="e1e2e7" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -509,6 +511,63 @@
       <value>
         <option name="FOREGROUND" value="68878f" />
       </value>
+    </option>
+    <option name="KOTLIN_BACKING_FIELD_VARIABLE">
+      <value />
+    </option>
+    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ef82b1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_COLON">
+      <value />
+    </option>
+    <option name="KOTLIN_DOUBLE_COLON">
+      <value>
+        <option name="FOREGROUND" value="fd8f3f" />
+      </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
+      <value />
+    </option>
+    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
+      <value />
+    </option>
+    <option name="KOTLIN_EXCLEXCL">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value />
+    </option>
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value />
+    </option>
+    <option name="KOTLIN_NAMED_ARGUMENT">
+      <value />
+    </option>
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="99e8d5" />
+      </value>
+    </option>
+    <option name="KOTLIN_QUEST">
+      <value />
+    </option>
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+      <value />
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value />
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="ef82b1" />
+      </value>
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION">
+      <value />
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
