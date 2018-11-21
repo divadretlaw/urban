@@ -117,6 +117,7 @@
 			"name": "Magenta bold",
 			"scope": [
 				"keyword",
+				"keyword.operator.new",
 				"meta.var",
 				"storage.modifier",
 				"storage.class",
@@ -163,7 +164,9 @@
 		{
 			"name": "Green",
 			"scope": [
-				"variable.other.object",
+				"variable.other.object.property",
+				"variable.other.property",
+				"variable.object",
 				"meta.function-call.generic"
 			],
 			"settings": {
@@ -174,6 +177,7 @@
 		{
 			"name": "White",
 			"scope": [
+				"punctuation.accessor",
 				"punctuation.section",
 				"punctuation.bracket",
 				"punctuation.separator",
