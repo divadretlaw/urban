@@ -4,7 +4,7 @@
     <property name="created">2018-06-15T19:00:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-10-24T23:24:19</property>
+    <property name="modified">2018-10-25T09:56:33</property>
     <property name="originalScheme">urban</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -271,7 +271,9 @@
       </value>
     </option>
     <option name="DEFAULT_COMMA">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
@@ -300,7 +302,9 @@
       </value>
     </option>
     <option name="DEFAULT_DOT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
@@ -559,11 +563,15 @@
       <value />
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ef82b1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ef82b1" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_VARIABLE_AS_FUNCTION">
