@@ -150,11 +150,13 @@
 				"storage.type.java",
 				"storage.type.generic",
 				"storage.type.object",
-				"meta.method.identifier",				
+				"meta.method.identifier",
+				"meta.object.member",		
 				"meta.class",
 				"support.class",
 				"support.function",
-				"support.type"
+				"support.type",
+				"entity.name.type"
 			],
 			"settings": {
 				"foreground": "#99E8D5",
@@ -183,6 +185,7 @@
 				"punctuation.separator",
 				"punctuation.defintion",
 				"punctuation.definition.parameters",
+				"punctuation.definition.typeparameters",
 				"keyword.operator",
 				"keyword.control.ternary",
 				"variable.parameter",
@@ -201,6 +204,7 @@
 			"name": "Orange",
 			"scope": [
 				"storage.type.annotation",
+				"storage.type.function.arrow",
 				"keyword.control.directive.include"
 			],
 			"settings": {
