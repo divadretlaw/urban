@@ -4,12 +4,12 @@
     <property name="created">2018-06-15T19:00:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-10-25T09:56:33</property>
+    <property name="modified">2019-01-23T12:42:43</property>
     <property name="originalScheme">urban</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_NAME" value="SF Mono" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
@@ -345,6 +345,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="FOREGROUND" value="d38d5e" />
+      </value>
+    </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="6c7986" />
@@ -516,6 +521,9 @@
         <option name="FOREGROUND" value="68878f" />
       </value>
     </option>
+    <option name="KOTLIN_ANDROID_EXTENSIONS_PROPERTY_CALL">
+      <value />
+    </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -575,6 +583,9 @@
       </value>
     </option>
     <option name="KOTLIN_VARIABLE_AS_FUNCTION">
+      <value />
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
       <value />
     </option>
     <option name="LINE_FULL_COVERAGE">
@@ -703,6 +714,11 @@
       <value>
         <option name="FOREGROUND" value="51c34f" />
         <option name="ERROR_STRIPE_COLOR" value="51c34f" />
+      </value>
+    </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="99e8d5" />
       </value>
     </option>
     <option name="TYPO">
