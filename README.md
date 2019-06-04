@@ -50,6 +50,10 @@ Put `urban.icls` in `~/Library/Preferences/{IDE}{version}/colors/`
 
 e.g. `~/Library/Preferences/IntelliJIdea2018.1/colors/`
 
+Restart the Jetbrains IDE
+
+Now select the color scheme in "Preferences > Editor > Color Scheme"
+
 Optional: Font - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) (Adobe Systems)
 
 ### MacDown
