@@ -147,16 +147,20 @@
 			"scope": [
 				"storage.modifier.import",
 				"storage.modifier.package",
+				"storage.modifier.attribute",
 				"storage.type.java",
 				"storage.type.generic",
 				"storage.type.object",
 				"meta.method.identifier",
 				"meta.object.member",		
 				"meta.class",
+				"meta.inheritance-clause",
 				"support.class",
 				"support.function",
 				"support.type",
-				"entity.name.type"
+				"entity.name.type",
+				"meta.parameter-clause",
+				"punctuation.definition.block"
 			],
 			"settings": {
 				"foreground": "#99E8D5",
@@ -166,6 +170,7 @@
 		{
 			"name": "Green",
 			"scope": [
+				"variable.other.object",
 				"variable.other.object.property",
 				"variable.other.property",
 				"variable.object",
@@ -192,8 +197,12 @@
 				"variable.other",
 				"meta.brace",
 				"meta.method.body",
+				"meta.definition.type.class",
 				"storage.type.function.arrow",
-				"entity.name.function"
+				"entity.name.function",
+				"entity.name.type.class",
+				"entity.name.type.struct",
+				"variable.parameter.function"
 			],
 			"settings": {
 				"foreground": "#E7E8EB",
@@ -205,7 +214,10 @@
 			"scope": [
 				"storage.type.annotation",
 				"storage.type.function.arrow",
-				"keyword.control.directive.include"
+				"keyword.control.directive.include",
+				"meta.preprocessor",
+				"meta.preprocessor.conditional",
+				"support.constant"
 			],
 			"settings": {
 				"foreground": "#FD8F3F",
