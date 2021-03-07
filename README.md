@@ -1,6 +1,6 @@
 # urban
 
-![colors](https://github.com/divadretlaw/urban/raw/master/assets/colors.png)
+![colors](https://github.com/divadretlaw/urban/raw/main/assets/colors.png)
 
 Dark themes inspired by various Xcode themes
 
@@ -10,7 +10,7 @@ Dark themes inspired by various Xcode themes
 
 Syntax Theme for [Xcode](https://developer.apple.com/xcode/)
 
-![xcode](https://github.com/divadretlaw/urban/raw/master/assets/xcode.png)
+![xcode](https://github.com/divadretlaw/urban/raw/main/assets/xcode.png)
 
 #### Installation
 
@@ -20,7 +20,7 @@ Put `urban.xccolortheme` in `~/Library/Developer/Xcode/UserData/FontAndColorThem
 
 Syntax theme for [Atom](https://atom.io)
 
-![atom](https://github.com/divadretlaw/urban/raw/master/assets/atom.png)
+![atom](https://github.com/divadretlaw/urban/raw/main/assets/atom.png)
 
 UI theme is [native-ui](https://github.com/fv0/native-ui)
 
@@ -38,7 +38,7 @@ or run the Terminal command
 
 Theme for [JetBrains IDEs](http://jetbrains.com)
 
-![jetbrains](https://github.com/divadretlaw/urban/raw/master/assets/jetbrains.png)
+![jetbrains](https://github.com/divadretlaw/urban/raw/main/assets/jetbrains.png)
 
 * IntelliJ IDEA
 * WebStorm
@@ -60,7 +60,7 @@ Optional: Font - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro
 
 Theme for [MacDown](http://macdown.uranusjr.com)
 
-![macdown](https://github.com/divadretlaw/urban/raw/master/assets/macdown.png)
+![macdown](https://github.com/divadretlaw/urban/raw/main/assets/macdown.png)
 
 #### Installation
 
@@ -70,7 +70,7 @@ Put `urban+.style` and or `urban.style` in `~/Library/Application Support/MacDow
 
 Theme for Terminal (macOS)
 
-![terminal](https://github.com/divadretlaw/urban/raw/master/assets/terminal.png)
+![terminal](https://github.com/divadretlaw/urban/raw/main/assets/terminal.png)
 
 #### Installation
 
@@ -80,7 +80,7 @@ Open `urban.terminal` with `/Applications/Utilities/Terminal.app`
 
 Color scheme for [iTerm 2](https://iterm2.com)
 
-![terminal](https://github.com/divadretlaw/urban/raw/master/assets/iterm2.png)
+![terminal](https://github.com/divadretlaw/urban/raw/main/assets/iterm2.png)
 
 #### Installation
 
@@ -92,7 +92,7 @@ Open `urban.itermcolors` with `iTerm` and then you can find it under "Preference
 
 Theme for [Visual Studio Code](https://code.visualstudio.com)
 
-![vscode](https://github.com/divadretlaw/urban/raw/master/assets/vscode.png)
+![vscode](https://github.com/divadretlaw/urban/raw/main/assets/vscode.png)
 
 #### Installation
 
