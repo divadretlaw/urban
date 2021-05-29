@@ -4,4 +4,4 @@
 
 Theme for [Visual Studio Code](https://code.visualstudio.com)
 
-![vscode](https://github.com/divadretlaw/urban/raw/master/assets/vscode.png)
+![vscode](https://github.com/divadretlaw/urban/raw/main/assets/vscode.png)
