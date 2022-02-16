@@ -4,7 +4,7 @@
     <property name="created">2018-06-15T19:00:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2019-01-23T12:42:43</property>
+    <property name="modified">2022-02-16T16:32:26</property>
     <property name="originalScheme">urban</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -671,6 +671,18 @@
       <value />
     </option>
     <option name="OC.TYPEDEF">
+      <value />
+    </option>
+    <option name="PACKAGE_PRIVATE_REFERENCE">
+      <value />
+    </option>
+    <option name="PRIVATE_REFERENCE">
+      <value />
+    </option>
+    <option name="PROTECTED_REFERENCE">
+      <value />
+    </option>
+    <option name="PUBLIC_REFERENCE">
       <value />
     </option>
     <option name="PY.SELF_PARAMETER">
