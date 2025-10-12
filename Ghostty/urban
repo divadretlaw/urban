@@ -1,0 +1,23 @@
+background = 292A2F
+background-opacity = 0.95
+background-blur-radius = 20
+foreground = E7E8EB
+selection-background = 6C7986
+palette = 0=#292A2F
+palette = 1=#FC6A5D
+palette = 2=#ADD681
+palette = 3=#FEFB85
+palette = 4=#74B6F6
+palette = 5=#EF82B1
+palette = 6=#99E8D5
+palette = 7=#E7E8EB
+palette = 8=#363945
+palette = 9=#D3232E
+palette = 10=#45BB3E
+palette = 11=#FEF935
+palette = 12=#0A6FFF
+palette = 13=#D7008F
+palette = 14=#1DA9A2
+palette = 15=#FFFFFF
+font-family = "SF Mono"
+font-size = 13

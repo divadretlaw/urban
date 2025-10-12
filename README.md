@@ -74,6 +74,20 @@ Theme for Terminal (macOS)
 
 Open `urban.terminal` with `/Applications/Utilities/Terminal.app`
 
+### Ghostty
+
+Theme for Ghostty
+
+![terminal](https://github.com/divadretlaw/urban/raw/main/assets/ghostty.png)
+
+#### Installation
+
+Put `urban` in `~/Library/Application Support/com.mitchellh.ghostty` and load in your config file
+
+```
+config-file = urban
+```
+
 ### iTerm 2
 
 Color scheme for [iTerm 2](https://iterm2.com)
