@@ -84,7 +84,7 @@ Color scheme for [iTerm 2](https://iterm2.com)
 
 Open `urban.itermcolors` with `iTerm` and then you can find it under "Preferences > Profiles > Colors > Load Presets…".
 
-### WIP: Visual Studio Code
+### Visual Studio Code
 
 > This is a Work in Progress so expect missing or wrong colors in certain areas of Visual Studio Code
 
